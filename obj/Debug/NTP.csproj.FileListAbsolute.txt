@@ -1,0 +1,186 @@
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\bin\Debug\NTP.exe.config
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\bin\Debug\bin\Debug\verilerim.mdb
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\bin\Debug\NTP.exe
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\bin\Debug\NTP.pdb
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmBrowser.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmDeneme.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmGiris.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmHakkinda.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmKonu1.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmKonu2.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmMenu.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frm2IsimBilgileri.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frm3DataSource.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frm4Kitaplar.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frm5Plaka.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frm6_GridView.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmBasitVeriBaglama.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmAna.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmGuvenlik.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmSifreDegistir.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmStokMalzemeCesidi.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.aritmetik.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.Form1.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.form3.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frm1Bolumebilme.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmBreak.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmCarpim1.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmClass1.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmContinue.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmDizi.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmDizi1.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmDizi3.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmDizi2.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmDiziIkiBoyutlu.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmDongu1.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmDoWhile.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmfor2.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmHesaplama.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmIkinci.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmIndirim.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmKontrol.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmLamba.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmList1.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmListBox.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmMantiksal.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmNetHesaplama.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmRecai.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmRenkDegisimi.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmSayiTahmin.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmSuKaynama.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmSwitch.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmTahmin.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmTekMiCiftMi.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmTry.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmwhile.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.Properties.Resources.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.frmSayac.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.vtTest.resources
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.csproj.GenerateResource.Cache
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.exe
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.pdb
+C:\Users\MİTHAT BOYNER\Downloads\NTP-master\NTP-master\NTP\obj\Debug\NTP.csprojResolveAssemblyReference.cache
+D:\NTP-master\NTP\bin\Debug\NTP.exe.config
+D:\NTP-master\NTP\obj\Debug\NTP.exe
+D:\NTP-master\NTP\obj\Debug\NTP.pdb
+D:\NTP-master\NTP\bin\Debug\bin\Debug\verilerim.mdb
+D:\NTP-master\NTP\bin\Debug\NTP.exe
+D:\NTP-master\NTP\bin\Debug\NTP.pdb
+D:\NTP-master\NTP\obj\Debug\NTP.csprojResolveAssemblyReference.cache
+D:\NTP-master\NTP\obj\Debug\NTP.frmBrowser.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmDeneme.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmGiris.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmHakkinda.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmKonu1.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmKonu2.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmMenu.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frm2IsimBilgileri.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frm3DataSource.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frm4Kitaplar.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frm5Plaka.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frm6_GridView.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmBasitVeriBaglama.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmAna.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmGuvenlik.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmSifreDegistir.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmStokMalzemeCesidi.resources
+D:\NTP-master\NTP\obj\Debug\NTP.aritmetik.resources
+D:\NTP-master\NTP\obj\Debug\NTP.Form1.resources
+D:\NTP-master\NTP\obj\Debug\NTP.form3.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frm1Bolumebilme.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmBreak.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmCarpim1.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmClass1.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmContinue.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmDizi.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmDizi1.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmDizi3.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmDizi2.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmDiziIkiBoyutlu.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmDongu1.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmDoWhile.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmfor2.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmHesaplama.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmIkinci.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmIndirim.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmKontrol.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmLamba.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmList1.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmListBox.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmMantiksal.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmNetHesaplama.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmRecai.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmRenkDegisimi.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmSayiTahmin.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmSuKaynama.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmSwitch.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmTahmin.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmTekMiCiftMi.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmTry.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmwhile.resources
+D:\NTP-master\NTP\obj\Debug\NTP.Properties.Resources.resources
+D:\NTP-master\NTP\obj\Debug\NTP.frmSayac.resources
+D:\NTP-master\NTP\obj\Debug\NTP.vtTest.resources
+D:\NTP-master\NTP\obj\Debug\NTP.csproj.GenerateResource.Cache
+D:\projeeem\NTP\bin\Debug\NTP.exe.config
+D:\projeeem\NTP\obj\Debug\NTP.exe
+D:\projeeem\NTP\obj\Debug\NTP.pdb
+D:\projeeem\NTP\bin\Debug\bin\Debug\verilerim.mdb
+D:\projeeem\NTP\bin\Debug\NTP.exe
+D:\projeeem\NTP\bin\Debug\NTP.pdb
+D:\projeeem\NTP\obj\Debug\NTP.csprojResolveAssemblyReference.cache
+D:\projeeem\NTP\obj\Debug\NTP.frmBrowser.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmDeneme.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmGiris.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmHakkinda.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmKonu1.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmKonu2.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmMenu.resources
+D:\projeeem\NTP\obj\Debug\NTP.frm2IsimBilgileri.resources
+D:\projeeem\NTP\obj\Debug\NTP.frm3DataSource.resources
+D:\projeeem\NTP\obj\Debug\NTP.frm4Kitaplar.resources
+D:\projeeem\NTP\obj\Debug\NTP.frm5Plaka.resources
+D:\projeeem\NTP\obj\Debug\NTP.frm6_GridView.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmBasitVeriBaglama.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmAna.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmGuvenlik.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmSifreDegistir.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmStokMalzemeCesidi.resources
+D:\projeeem\NTP\obj\Debug\NTP.aritmetik.resources
+D:\projeeem\NTP\obj\Debug\NTP.Form1.resources
+D:\projeeem\NTP\obj\Debug\NTP.form3.resources
+D:\projeeem\NTP\obj\Debug\NTP.frm1Bolumebilme.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmBreak.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmCarpim1.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmClass1.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmContinue.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmDizi.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmDizi1.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmDizi3.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmDizi2.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmDiziIkiBoyutlu.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmDongu1.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmDoWhile.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmfor2.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmHesaplama.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmIkinci.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmIndirim.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmKontrol.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmLamba.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmList1.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmListBox.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmMantiksal.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmNetHesaplama.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmRecai.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmRenkDegisimi.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmSayiTahmin.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmSuKaynama.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmSwitch.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmTahmin.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmTekMiCiftMi.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmTry.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmwhile.resources
+D:\projeeem\NTP\obj\Debug\NTP.Properties.Resources.resources
+D:\projeeem\NTP\obj\Debug\NTP.frmSayac.resources
+D:\projeeem\NTP\obj\Debug\NTP.vtTest.resources
+D:\projeeem\NTP\obj\Debug\NTP.csproj.GenerateResource.Cache
